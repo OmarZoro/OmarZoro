@@ -1,14 +1,14 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e061e34e-348f-4348-a0d0-ff2b53b173a8" /># Omar "Zoro" Mohamed
+# Omar "Zoro" Mohamed
 
 ### Software Developer • Product Builder • Automation Specialist • IT
 
 I’m a software developer with 3 years of experience building software, digital products, and technical systems.
 
-I also have around 1.5 years of experience in automation and 2 years of experience in IT, giving me a broader technical background across development, systems, troubleshooting, and workflow automation.
+I also have 1.5 years of experience in automation and 2 years of experience in IT, giving me a broader technical background across development, systems, troubleshooting, and workflow automation.
 
 My work is human-led and engineering-first.
 
-AI contributes to roughly 40% of my workflow, mainly helping with research, development speed, testing, automation, and iteration, while architecture, product decisions, validation, and quality remain under my control.
+AI contributes to roughly 40% of my workflow, mainly helping with research, implementation speed, testing, automation, and iteration, while architecture, product decisions, validation, and quality remain under my control.
 
 ---
 
@@ -16,7 +16,7 @@ AI contributes to roughly 40% of my workflow, mainly helping with research, deve
 
 I focus on turning ideas into practical, working software products.
 
-My background combines:
+My background includes:
 
 - 3 years of Software Development
 - 1.5 years of Automation experience
@@ -29,9 +29,9 @@ My background combines:
 - System Architecture
 - Technical Troubleshooting
 
-This mix helps me approach problems from more than just a coding perspective.
+I care about more than making code run.
 
-I care about how software is designed, how systems communicate, how they fail, how they can be automated, and how they behave in real-world environments.
+I pay attention to how software is designed, how systems communicate, how they fail, how they can be automated, and how they behave in real-world environments.
 
 ---
 
@@ -39,7 +39,7 @@ I care about how software is designed, how systems communicate, how they fail, h
 
 ### Al Rawda City
 
-A multi-vendor commerce and delivery platform built around separate customer, vendor, rider, and administration experiences.
+A multi-vendor commerce and delivery platform with separate systems for customers, vendors, riders, and administration.
 
 The project includes backend architecture, authorization, inventory, ordering, delivery workflows, financial logic, and production-readiness work.
 
@@ -92,7 +92,7 @@ I focus on:
 - Security and authorization
 - Testing and verification
 - Reliable data handling
-- Automation where it actually adds value
+- Automation where it adds real value
 - Real-world product requirements
 - Continuous improvement
 
@@ -122,7 +122,7 @@ Experience with computer systems, software environments, troubleshooting, operat
 
 ## 🌱 Current Direction
 
-I'm currently focused on building:
+I’m currently focused on:
 
 **Software Products • Developer Tools • Open Source • Automation • AI-assisted Engineering**
 
